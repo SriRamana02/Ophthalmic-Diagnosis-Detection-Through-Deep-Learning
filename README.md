@@ -57,7 +57,6 @@ This project leverages deep learning to detect ophthalmic diseases such as catar
    ```bash
    python App.py  
    ```  
-   Access the web interface at `http://localhost:5000`  
 
 ## **Model Training**  
 - The model is trained on labeled ophthalmic datasets using deep learning techniques.  
@@ -65,7 +64,7 @@ This project leverages deep learning to detect ophthalmic diseases such as catar
 - Training is done in `main.ipynb`.  
 
 ## **Results**  
-- Achieved [Provide Accuracy]% accuracy on the test dataset.  
+- Achieved 88% accuracy on the test dataset.  
 - Model successfully classifies ophthalmic diseases with high precision.  
 
 
